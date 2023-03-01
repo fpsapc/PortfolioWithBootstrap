@@ -23,3 +23,8 @@ ul {
 .gap-6 {
   gap: 6rem;
 }
+
+.language-icon {
+  width: 3em;
+  height: 3em;
+}
