@@ -7,3 +7,9 @@
   background-color: #fff;
   border-radius: 0 0 0 10rem;
 }
+
+.badge-color {
+  background-color: #ebebff;
+  border: none;
+  color: #6070ff;
+}
