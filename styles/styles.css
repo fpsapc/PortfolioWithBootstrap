@@ -7,7 +7,6 @@ ul {
 .bg-image {
   background-image: url("../img/hero.png");
   background-size: contain;
-  min-height: 846px;
   background-position: center center;
   background-repeat: no-repeat;
   background-color: #fff;
@@ -34,4 +33,23 @@ ul {
   background-color: #6070ff;
   background-size: 80%;
   border-radius: 10rem 0 0 0;
+}
+
+@media (min-width: 780px) {
+  .bg-image {
+    min-height: 446px;
+  }
+}
+
+
+@media (min-width: 1200px) {
+  .bg-image {
+    min-height: 646px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .bg-image {
+    min-height: 846px;
+  }
 }
