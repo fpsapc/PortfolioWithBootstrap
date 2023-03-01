@@ -6,7 +6,7 @@ ul {
 
 .bg-image {
   background-image: url("../img/hero.png");
-  background-size: 69%;
+  background-size: contain;
   min-height: 846px;
   background-position: center center;
   background-repeat: no-repeat;
