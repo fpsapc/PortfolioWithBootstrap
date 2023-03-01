@@ -13,3 +13,7 @@
   border: none;
   color: #6070ff;
 }
+
+.gap-6 {
+  gap: 6rem;
+}
