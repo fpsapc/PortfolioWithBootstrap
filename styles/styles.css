@@ -28,3 +28,10 @@ ul {
   width: 3em;
   height: 3em;
 }
+
+.bg-darkImage {
+  background-image: url("../img/heroDark.png");
+  background-color: #6070ff;
+  background-size: 80%;
+  border-radius: 10rem 0 0 0;
+}
